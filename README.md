@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://osody.se/"><img src="https://osody.se/logo.73091252.png" alt="Osody" width="300"></a>
+  <a href="https://osody.se/"><img src="https://osody.se/assets/footer-logo.png" alt="Osody" width="300"></a>
   <br>
   OSODY STUDIOS | OSKAR STERNER
   <br>
