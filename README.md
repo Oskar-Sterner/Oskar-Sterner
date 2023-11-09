@@ -9,7 +9,6 @@
 
 <h4 align="center">A freelance design-agency that specializes in web design and other graphical elements like logos and animations! <a href="https://osody.se/" target="_blank">Take a visit👋</a></h4>
 
-
 ![screenshot](https://github.com/Oskar-Sterner/Osody-Studios/blob/main/readmebanner.gif)
 
 ## About me
