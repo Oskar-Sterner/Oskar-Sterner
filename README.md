@@ -36,6 +36,7 @@ I'm a Swedish developer who loves turning ideas into reality through code. Curre
   <span style="background: linear-gradient(45deg, #667eea, #764ba2); color: white; padding: 8px 16px; border-radius: 20px; font-size: 0.9em; font-family: 'Arial', sans-serif;">React & TypeScript/NextJS</span>
   <span style="background: linear-gradient(45deg, #764ba2, #667eea); color: white; padding: 8px 16px; border-radius: 20px; font-size: 0.9em; font-family: 'Arial', sans-serif;">GoLang</span>
   <span style="background: linear-gradient(45deg, #667eea, #764ba2); color: white; padding: 8px 16px; border-radius: 20px; font-size: 0.9em; font-family: 'Arial', sans-serif;">PostgreSQL</span>
+    <span style="background: linear-gradient(45deg, #667eea, #764ba2); color: white; padding: 8px 16px; border-radius: 20px; font-size: 0.9em; font-family: 'Arial', sans-serif;">NodeJS</span>
   <span style="background: linear-gradient(45deg, #764ba2, #667eea); color: white; padding: 8px 16px; border-radius: 20px; font-size: 0.9em; font-family: 'Arial', sans-serif;">AI & LangChain</span>
 </div>
 
